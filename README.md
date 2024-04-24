@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iwant2fly
-- 👀 I’m interested in automating tasks related to manufacturing and specifically printing
+- 👀 I’m interested in automating tasks related to manufacturing
 - 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on print automation
+- 💞️ I’m looking to collaborate on manufacturing automation
 - 📫 How to reach me ...
 
 <!---
